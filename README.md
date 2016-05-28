@@ -73,7 +73,7 @@ $ symfony new my-project
 
 ```sh
 $ cd my-project
-$ php bin/console server:run **0.0.0.0:8000**
+$ php bin/console server:run 0.0.0.0:8000
 ```
 Important : user **0.0.0.0:8000** address.
 
