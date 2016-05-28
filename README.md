@@ -1,7 +1,10 @@
 # ZSH-PHP
-PHP-Development container.
+PHP-Development container with :
 
-This PHP-Development environment is a ZSH shell with Composer and Symfony installer.
+- ZSH - http://www.zsh.org/
+- Oh-My-Zsh - http://ohmyz.sh/
+- Composer - https://getcomposer.org/
+- Symfony installer - https://symfony.com/
 
 Ports exposed:
 - **8000** : for Symfony built-in server (PHP)
