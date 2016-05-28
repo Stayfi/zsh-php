@@ -1,0 +1,1 @@
+docker run -ti -p 8000:8000 -v /home/docker/zsh-php/www:/var/www stayfi/zsh-php /bin/zsh

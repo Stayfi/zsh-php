@@ -1,0 +1,1 @@
+docker build -t stayfi/zsh-php zsh-php
